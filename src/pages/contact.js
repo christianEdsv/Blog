@@ -11,13 +11,13 @@ const ContactPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>Contact — {site.siteMetadata.title}</title>
+        <title>Acerca de — {site.siteMetadata.title}</title>
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you kick start your next project &rarr;</p>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/billy-huynh-W8KTS-mhFUE-unsplash.jpg')`, marginBottom: 0}}>
+          <h1 className="post-title">Vamos a charlar un poco!</h1>
+          <p>Puedes contactarme a mis redes &rarr;</p>
         </div>
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">

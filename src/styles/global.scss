@@ -9,7 +9,7 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #5c5c5c;
+  --primary-color: #4d4d4d;
   --primary-text-color: #fff;
   --featured-bg: #493b8a;
   --featured-text: #fff;
@@ -115,11 +115,11 @@ a {
   margin-bottom: 0.5rem;
 }
 .button {
-  padding: 18px 27px;
+  padding: 12px 20px;
   display: inline-block;
   background: var(--btn-bg);
   border: 1px solid var(--btn-bdr);
-  border-radius: 9px;
+  border-radius: 5px;
   text-decoration: none;
   color: var(--btn-text-color);
   font-size: 16px;
