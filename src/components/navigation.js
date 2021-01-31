@@ -4,7 +4,7 @@ import ThemeChanger from "../components/themeChanger"
 
 export default (props) => (
   <nav className="navigation"> 
-    <Link to="/contact">Acerca de</Link>
+    <Link to="/acerca">Acerca de</Link>
     <ThemeChanger/>
   </nav>
   
