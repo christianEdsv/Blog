@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Codigo binario &bull; un blog de <a href="https://twitter.com/christianEdSV" target="_blank">Christian Hernandez</a></p>
+        <p>&copy; {new Date().getFullYear()} Codigo binario &bull; un blog de <a href="https://twitter.com/christianEdSV">Christian Hernandez</a></p>
       </footer>
     </div>
   )

@@ -20,9 +20,9 @@ const ContactPage = ({
           <p>Puedes contactarme a mis redes &rarr;</p>
         </div>
         <div className="social">
-        <h2 className="redes"><a href="https://twitter.com/christianEdSV" target="_blank">Twitter</a></h2>
-        <h2 className="redes"><a href="https://www.linkedin.com/in/christian-hernandez-531bb494/" target="_blank">Linkedin</a></h2>
-        <h2 className="redes"><a href="https://github.com/christianEdsv" target="_blank">Github</a></h2>
+        <h2 className="redes"><a href="https://twitter.com/christianEdSV">Twitter</a></h2>
+        <h2 className="redes"><a href="https://www.linkedin.com/in/christian-hernandez-531bb494/">Linkedin</a></h2>
+        <h2 className="redes"><a href="https://github.com/christianEdsv">Github</a></h2>
         </div>
       </div>
     </Layout>
