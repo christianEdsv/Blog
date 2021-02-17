@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Lneguaje binario`,
-        short_name: `binario`,
+        name: `Nerdojo`,
+        short_name: `nerdojo`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#381696`,
