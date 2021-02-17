@@ -45,7 +45,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Nerdojo`,
-        short_name: `nerdojo`,
+        short_name: `Nerdojo`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#381696`,
