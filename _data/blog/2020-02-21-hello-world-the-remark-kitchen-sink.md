@@ -16,8 +16,18 @@ Durante varios días estuve pensando sobre que escribir en la primera entrada de
 
 El frontend de Nerdojo está desarrollado con [Gatsbyjs](https://www.gatsbyjs.com), siendo un framework para construir sitios estáticos con React, Gatsby es una gran opción para iniciar proyectos de cualquier tipo, siendo una excelente opción para blog personales, sitios empresariales, sitios informativos y web apps. Una de las grandes ventajas de Gatsby es que con una simple línea de código (ver ejemplo en el paso 4) tienes una plantilla en la cual iniciar tu proyecto, a continuación detallo lo que se necesita para trabajar con Gatsbyjs.
 
-
-
 1. Instalar node.js: necesitamos buscar versiones anteriores a la última ya que Gatsbyjs podría fallar en la versión más reciente, en mi caso instale la versión 10.23.1
+2. Instalar [Git](https://git-scm.com/downloads): Descargamos la última versión disponible
+3. Instalar Gatsby CLI: Teniendo instalado Node.js y Git, abrimos la consola y escribimos la siguiente instrucción
 
-   ![Node](/assets/1-min.png "Descargando Node.js")
+```
+   npm install -g gatsby-cli
+```
+
+4. Crear un sitio con Gatsby: Nos movemos al directorio donde queremos guardar el sitio y finalmente ejecutamos la siguiente instrucción para crear nuestro primer sitio con gastby
+
+```
+   gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world
+```
+
+Para este ejemplo se usó la plantilla inicial de gatsby, puedes buscar los templates disponibles en la siguiente url: <https://www.gatsbyjs.com/starters/?>
