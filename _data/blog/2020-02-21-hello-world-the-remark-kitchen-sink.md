@@ -42,7 +42,7 @@ Para este ejemplo se usó la plantilla inicial de gatsby, puedes buscar los temp
 
 ![Iniciando proyecto Gatsby](/assets/5.png "Iniciando proyecto Gatsby")
 
-Ingresamos a la ruta indicada en la consola y podemos visualizar el sitio creado :)
+Ingresamos a la ruta indicada en la consola y podemos visualizar el sitio creado
 
 ![Servidor local Gatsby iniciado](/assets/6.png "Servidor local Gatsby iniciado")
 
@@ -50,9 +50,9 @@ Ingresamos a la ruta indicada en la consola y podemos visualizar el sitio creado
 
 ## Netlify
 
-Una excelente opción de host para sitios web estáticos creados con Gatsbyjs es Netlify, Nerdojo esta hospedado en Netlify y utiliza su Headless CMS para administrar el contenido, gracias a su continuous development con unos simples pasos podemos tener nuestro sitio web online rápidamente. En este ejemplo usaremos el proyecto creado anteriormente y explicaremos lo fácil que es hospedar nuestros sitios en Netlify
+Una excelente opción de host para sitios web estáticos creados con Gatsbyjs es [Netlify](https://www.netlify.com), Nerdojo esta hospedado en Netlify y utiliza su Headless CMS para administrar el contenido, gracias a su continuous development con unos simples pasos podemos tener nuestro sitio web online rápidamente. En este ejemplo usaremos el proyecto creado anteriormente y explicaremos lo fácil que es hospedar nuestros sitios en Netlify
 
-1. Crear un nuevo repositorio Git
+1. Crear un nuevo repositorio [Git](https://github.com/new)
 
 ![Creando repositorio en Github](/assets/8.png "Creando repositorio en Github")
 
@@ -100,7 +100,7 @@ Ingresamos a nuestro repositorio en Github para validar que los archivos que fue
 
 ## Conectando Github con Netlify
 
-Para realizar la integración necesitamos tener una cuenta en Netlify, podemos usar nuestra cuenta de Github o crear una nueva con nuestro correo. Una vez tengamos lista nuestra cuenta basta seguir los siguiente pasos para hacer la integración.
+Para realizar la integración necesitamos tener una cuenta en [Netlify](https://www.netlify.com), podemos usar nuestra cuenta de Github o crear una nueva con nuestro correo. Una vez tengamos lista nuestra cuenta basta seguir los siguiente pasos para hacer la integración.
 
 1. Hacemos click en el botón New site from Git
 
@@ -124,6 +124,6 @@ Buscamos en la lista Options – Edit site name para cambiar el nombre del domin
 
 Felicidades 😊 ya tienes un sitio web integrado con Github y netlify!
 
-Muchas gracias por llegar hasta el final de este mini tutorial, la intención era explicar como fue construido Nerdojo y mostrar lo sencillo y rápido que puede ser tener un proyecto web online, gracias a Gatsby y Netlify, si tienes alguna pregunta o sugerencia puedes escribirme a mi [Twitter](https://twitter.com/christianEdSV)
+Muchas gracias por llegar hasta el final de este mini tutorial, la intención era explicar como fue construido Nerdojo y mostrar lo sencillo y rápido que puede ser tener un proyecto web online gracias a Gatsby y Netlify, si tienes alguna pregunta o sugerencia puedes escribirme a mi [Twitter](https://twitter.com/christianEdSV)
 
 Nos vemos pronto ✌
