@@ -16,7 +16,7 @@ Durante varios días estuve pensando sobre que escribir en la primera entrada de
 
 El frontend de Nerdojo está desarrollado con [Gatsbyjs](https://www.gatsbyjs.com), siendo un framework para construir sitios estáticos con React, Gatsby es una gran opción para iniciar proyectos de cualquier tipo, siendo una excelente opción para blog personales, sitios empresariales, sitios informativos y web apps. Una de las grandes ventajas de Gatsby es que con una simple línea de código (ver ejemplo en el paso 4) tienes una plantilla en la cual iniciar tu proyecto, a continuación detallo lo que se necesita para trabajar con Gatsbyjs.
 
-1. Instalar node.js: necesitamos buscar versiones anteriores a la última ya que Gatsbyjs podría fallar en la versión más reciente, en mi caso instale la versión 10.23.1
+1. Instalar [node.js](https://nodejs.org/en/download/releases/): necesitamos buscar versiones anteriores a la última ya que Gatsbyjs podría fallar en la versión más reciente, en mi caso instale la versión 10.23.1
 2. Instalar [Git](https://git-scm.com/downloads): Descargamos la última versión disponible
 3. Instalar Gatsby CLI: Teniendo instalado Node.js y Git, abrimos la consola y escribimos la siguiente instrucción
 
@@ -30,4 +30,20 @@ El frontend de Nerdojo está desarrollado con [Gatsbyjs](https://www.gatsbyjs.co
    gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world
 ```
 
+![Directorio del proyecto Gaysby](/assets/2.png "Directorio del proyecto Gaysby")
+
 Para este ejemplo se usó la plantilla inicial de gatsby, puedes buscar los templates disponibles en la siguiente url: <https://www.gatsbyjs.com/starters/?>
+
+![Proyecto gatsby](/assets/3.png "Proyecto gatsby")
+
+*Se puede observar la ruta donde fue almacenado el proyecto*
+
+5. Iniciar el servidor local para lanzar el sitio web: Una vez creado el sitio basta con cambiar al directorio del proyecto y ejecutar el servidor con los comandos indicados en la consola
+
+![Iniciando proyecto Gatsby](/assets/5.png "Iniciando proyecto Gatsby")
+
+Ingresamos a la ruta indicada en la consola y podemos visualizar el sitio creado :)
+
+![Servidor local Gatsby iniciado](/assets/6.png "Servidor local Gatsby iniciado")
+
+![Sitio web Gatsby corriendo en servidor local](/assets/7.png "Sitio web Gatsby corriendo en servidor local")
