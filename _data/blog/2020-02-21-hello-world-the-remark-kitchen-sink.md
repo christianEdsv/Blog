@@ -14,6 +14,10 @@ Durante varios días estuve pensando sobre que escribir en la primera entrada de
 
 ## Gatsbyjs
 
-El frontend de Nerdojo está desarrollado con Gatsbyjs, siendo un framework para construir sitios estáticos con React, Gatsby es una gran opción para iniciar proyectos de cualquier tipo, siendo una excelente opción para blog personales, sitios empresariales, sitios informativos y web apps. Una de las grandes ventajas de Gatsby es que con una simple línea de código (ver ejemplo en el paso 4) tienes una plantilla en la cual iniciar tu proyecto, a continuación detallo lo que se necesita para trabajar con Gatsbyjs.
+El frontend de Nerdojo está desarrollado con [Gatsbyjs](https://www.gatsbyjs.com), siendo un framework para construir sitios estáticos con React, Gatsby es una gran opción para iniciar proyectos de cualquier tipo, siendo una excelente opción para blog personales, sitios empresariales, sitios informativos y web apps. Una de las grandes ventajas de Gatsby es que con una simple línea de código (ver ejemplo en el paso 4) tienes una plantilla en la cual iniciar tu proyecto, a continuación detallo lo que se necesita para trabajar con Gatsbyjs.
+
+
 
 1. Instalar node.js: necesitamos buscar versiones anteriores a la última ya que Gatsbyjs podría fallar en la versión más reciente, en mi caso instale la versión 10.23.1
+
+   ![Node](/assets/1-min.png "Descargando Node.js")
