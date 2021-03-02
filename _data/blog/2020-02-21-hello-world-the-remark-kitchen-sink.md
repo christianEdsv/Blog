@@ -124,7 +124,7 @@ Buscamos en la lista Options – Edit site name para cambiar el nombre del domin
 
 ![Cambiando dominio personalizado en Netlify](/assets/16.png "Cambiando dominio personalizado en Netlify")
 
-Felicidades 😊 ya tienes un sitio web integrado con Github y netlify!
+Felicidades 😊 ya tienes un sitio web desarrollado con Gatsbyjs integrado con Github y netlify!
 
 Muchas gracias por llegar hasta el final de este mini tutorial, la intención era explicar como fue construido Nerdojo y mostrar lo sencillo y rápido que puede ser tener un proyecto web online gracias a Gatsby y Netlify, si tienes alguna pregunta o sugerencia puedes escribirme a mi [Twitter](https://twitter.com/christianEdSV)
 
