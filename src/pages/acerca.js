@@ -16,8 +16,8 @@ const ContactPage = ({
       </Helmet>
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/circles-light.png')`, marginBottom: 0}}>
-          <h1 className="post-title">Vamos a charlar un poco!</h1>
-          <p>Puedes contactarme a mis redes &rarr;</p>
+          <h1 className="post-title">Vamos a charlar un poco 😊</h1>
+          <p>Gracias por visitar el blog, puedes contactarme en mis redes &rarr;</p>
         </div>
         <div className="social">
         <h2 className="redes"><a href="https://twitter.com/christianEdSV">Twitter</a></h2>
