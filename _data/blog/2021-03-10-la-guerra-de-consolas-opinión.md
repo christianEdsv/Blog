@@ -18,31 +18,29 @@ Sin embargo, las cosas no eran tan bonitas como parecen, detrás de esta compete
 
 *Anuncios como estos llegaron a calar tanto en la gente que prácticamente creaban soldados fieles a la marca que defendían a capa y espada su consola favorita.*
 
-Una vez conocimos el origen de este fenómeno pasamos a revisar las razones que según mi opinión muchos de nosotros tomamos en cuenta a la hora de comprar una consola.
-
-1. **Nostalgia**
-
-   La mayoría de nosotros tuvimos nuestra primera consola de niños y los recuerdos que guardamos es esta experiencia son un factor importante a la hora de escoger nuestra consola, lo más seguro es que nosotros no fuimos quienes escogieron que sistema comprar en la mayoría de casos fueron nuestros padres o familiares quienes lo hicieron por nosotros.
+**Una vez conocimos el origen de este fenómeno** pasamos a revisar las razones que según mi opinión muchos de nosotros tomamos en cuenta a la hora de comprar una consola.
 
 
-2. **Economía**
 
-   Seamos sinceros ser “gamer” es un hobby caro y muchas veces nuestra billetera no alcanza para tener más de una consola, tenemos que elegir entre las diferentes opciones que ofrece el mercado, en este caso el precio es un factor muy importante especialmente para los nuevos jugadores que van entrando a este mundillo.
+**Nostalgia**
 
+La mayoría de nosotros tuvimos nuestra primera consola de niños y los recuerdos que guardamos es esta experiencia son un factor importante a la hora de escoger nuestra consola, lo más seguro es que nosotros no fuimos quienes escogieron que sistema comprar en la mayoría de casos fueron nuestros padres o familiares quienes lo hicieron por nosotros.
 
-3. **Publicidad**
+**Economía**
 
-   Uno de los conceptos más básicos de los negocios es la publicidad, la empresa que no invierte en esta área no puede dar a conocer su producto por lo tanto no atrae a futuros compradores, como consumidores nosotros nos vemos atraídos a los productos con mayor difusión por lo cual este es un factor importante a la hora de comprar un producto.
+Seamos sinceros ser “gamer” es un hobby caro y muchas veces nuestra billetera no alcanza para tener más de una consola, tenemos que elegir entre las diferentes opciones que ofrece el mercado, en este caso el precio es un factor muy importante especialmente para los nuevos jugadores que van entrando a este mundillo.
 
+**Publicidad**
 
-4. **Círculo de amigos**
+Uno de los conceptos más básicos de los negocios es la publicidad, la empresa que no invierte en esta área no puede dar a conocer su producto por lo tanto no atrae a futuros compradores, como consumidores nosotros nos vemos atraídos a los productos con mayor difusión por lo cual este es un factor importante a la hora de comprar un producto.
 
-   En plena era de internet, muchas compañías priorizan la experiencia multijugador y muchos de nosotros queremos jugar con amigos o personas que hemos conocido anteriormente, debido a esto muchas veces nos vemos influenciados por el sistema que estas personas poseen con la excusa de poder seguir jugando con ellos.
+**Círculo de amigos**
 
+En plena era de internet, muchas compañías priorizan la experiencia multijugador y muchos de nosotros queremos jugar con amigos o personas que hemos conocido anteriormente, debido a esto muchas veces nos vemos influenciados por el sistema que estas personas poseen con la excusa de poder seguir jugando con ellos.
 
-5. **Títulos o sagas exclusivas**
+**Títulos o sagas exclusivas**
 
-   Este punto va un poco relacionado con el factor económico ya que, al contar solo con una opción de compra los títulos exclusivos de cada consola se convierten en el atractivo principal debido a su exclusividad, sagas como Halo (Xbox), God of war (Playstation) y Zelda (Nintendo) solo pueden ser jugadas su consola, aunque últimamente títulos exclusivos también están siendo lanzados en PC.
+Este punto va un poco relacionado con el factor económico ya que, al contar solo con una opción de compra los títulos exclusivos de cada consola se convierten en el atractivo principal debido a su exclusividad, sagas como Halo (Xbox), God of war (Playstation) y Zelda (Nintendo) solo pueden ser jugadas su consola, aunque últimamente títulos exclusivos también están siendo lanzados en PC.
 
 Ya conocimos los puntos que muchos de nosotros tomamos en cuenta a la hora de comprar su consola, pero ¿Realmente eso justifica los ataques a otros jugadores del sistema “rival”? conozcamos lo que según mi opinión fomenta este ambiente hostil entre la comunidad.
 
@@ -52,11 +50,11 @@ Ya conocimos los puntos que muchos de nosotros tomamos en cuenta a la hora de co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SRrp_oUF2wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 Muchas de estas campañas de desprestigio son realizadas por las mismas empresas y en la mayoría de las ocasiones por jugadores que buscan meter “hate” en la comunidad. Un ejemplo más reciente son los supuestos fallos de consolas de nueva generación PS5 y Xbos Series X/S.
 
 ![Fallo-ps5](/assets/fallops5-min.png "Fallo PS5")
-
-\    
 
 ![Fallos-seriesx](/assets/falloxbox-min.png "Fallos Xbox series X")
 
@@ -96,7 +94,7 @@ Tendemos a “juzgar las cosas por la portada” ya que al no poseer otra consol
 
 ## En conclusión...
 
-Lo importante es disfrutar de los videojuegos independientemente el sistema, como todo en la vida la gente tiene gustos diferentes y en un hobby tan popular las opiniones son diversas, si tienes la capacidad de tener mas de una consola puedes sacar tus propias conclusiones sin buscar intermediarios que como lo vimos en este articulo muchas veces dividen a la comunidad intencionalmente, si no puedes tener mas de una consola lo mejor es conocer las opiniones de jugadores que realmente hayan probado el juego, por ejemplo en steam el sistema de calificación muestra las opiniones de los jugadores según el tiempo que han jugado.
+Lo importante es disfrutar de los videojuegos independientemente el sistema, siendo un hobby tan popular las opiniones son diversas, si tienes la capacidad de tener mas de una consola puedes sacar tus propias conclusiones sin buscar intermediarios, si no puedes tener mas de una consola lo mejor es conocer las opiniones de jugadores que realmente hayan probado el juego, por ejemplo en steam el sistema de calificación muestra las opiniones de los jugadores según el tiempo que han jugado.
 
 Este era mi breve análisis para el que considero uno de los problemas que más daño hacen a la comunidad gaming, si te gusto el articulo no dudes en compartirlo, también puedes seguirme en mi [twitter](https://twitter.com/christianEdSV)
 
