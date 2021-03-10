@@ -8,7 +8,7 @@ thumbnail: /assets/guerraconsolas.png
 ---
 ¡Hola senpais!
 
-En esta ocasión quiero compartirles mi opinión sobre uno de los temas que siempre han dividido a la comunidad gaming: La guerra de consolas.
+En esta ocasión quiero compartirles mi opinión sobre uno de los temas que siempre han dividido a la comunidad gaming: **La guerra de consolas.**
 
 El concepto de guerra de consolas nació a finales de los 80´s debido a la competencia de Sega y Nintendo, en esos años eran las únicas empresas activas en la industria del gaming, fueron años muy exitosos para ambas compañías y gracias a su constante competencia por ganar la mayor cuota de jugadores, nos ofrecieron grandes títulos que hasta la fecha son recordados con mucho cariño.
 
@@ -23,15 +23,23 @@ Una vez conocimos el origen de este fenómeno pasamos a revisar las razones que 
 1. **Nostalgia**
 
    La mayoría de nosotros tuvimos nuestra primera consola de niños y los recuerdos que guardamos es esta experiencia son un factor importante a la hora de escoger nuestra consola, lo más seguro es que nosotros no fuimos quienes escogieron que sistema comprar en la mayoría de casos fueron nuestros padres o familiares quienes lo hicieron por nosotros.
+
+
 2. **Economía**
 
    Seamos sinceros ser “gamer” es un hobby caro y muchas veces nuestra billetera no alcanza para tener más de una consola, tenemos que elegir entre las diferentes opciones que ofrece el mercado, en este caso el precio es un factor muy importante especialmente para los nuevos jugadores que van entrando a este mundillo.
+
+
 3. **Publicidad**
 
    Uno de los conceptos más básicos de los negocios es la publicidad, la empresa que no invierte en esta área no puede dar a conocer su producto por lo tanto no atrae a futuros compradores, como consumidores nosotros nos vemos atraídos a los productos con mayor difusión por lo cual este es un factor importante a la hora de comprar un producto.
+
+
 4. **Círculo de amigos**
 
    En plena era de internet, muchas compañías priorizan la experiencia multijugador y muchos de nosotros queremos jugar con amigos o personas que hemos conocido anteriormente, debido a esto muchas veces nos vemos influenciados por el sistema que estas personas poseen con la excusa de poder seguir jugando con ellos.
+
+
 5. **Títulos o sagas exclusivas**
 
    Este punto va un poco relacionado con el factor económico ya que, al contar solo con una opción de compra los títulos exclusivos de cada consola se convierten en el atractivo principal debido a su exclusividad, sagas como Halo (Xbox), God of war (Playstation) y Zelda (Nintendo) solo pueden ser jugadas su consola, aunque últimamente títulos exclusivos también están siendo lanzados en PC.
