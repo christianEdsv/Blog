@@ -19,11 +19,9 @@ Sin embargo, esta ventaja es un arma de doble filo porque los fanáticos son muy
 
 ![vieja confiable](/assets/viejaconfiable-min.png "vieja confiable")
 
-## **¿Remake o reboot?** 
+## **¿Remake o reboot?**
 
 Una de las primeras dudas que surgen cuando se anuncia un nuevo proyecto basado en una franquicia “antigua” es si el producto final será un remake o una reboot, pero ¿Que es un remake o reboot?
-
-
 
 Un **remake** es como lo cita la [RAE ](https://dle.rae.es/remake?m=form)hacer “una Adaptación o nueva versión de una obra” es decir traer a tiempos actuales videojuegos, series o películas que fueron exitosos o son muy queridos por el público.
 
@@ -37,13 +35,9 @@ En cambio, un **reboot** es como su traducción del ingles indica “reiniciar�
 
 ![Spiderman](/assets/siperman-min.png "Spiderman")
 
-
-
 Como pudimos conocer **un remake es algo totalmente diferente a un reboot** y muchas veces tendemos a confundir ambos términos; partiendo de eso surge el dilema que mencione anteriormente, el público se divide entre los que quieren que se adapte el contenido respetando el original (historia, personajes, etc.) y los que quieren nuevas experiencias.
 
-
-
-Pero ¿que motiva a las personas revivir viejos éxitos? La respuesta es simple: la nostalgia. Las experiencias y sentimientos que experimentamos durante en nuestra vida se convierten en recuerdos que guardamos en un lugar especial y la mayoría de estos recuerdos vienen de nuestra infancia.
+Pero ¿que motiva a las personas revivir viejos éxitos? La respuesta es simple: **la nostalgia**. Las experiencias y sentimientos que experimentamos durante en nuestra vida se convierten en recuerdos que guardamos en un lugar especial y la mayoría de estos recuerdos vienen de nuestra infancia.
 
 *Durante la niñez es cuando más consumimos producto de entretenimiento por eso guardamos buenos recuerdos de estas experiencias.*
 
@@ -67,11 +61,7 @@ Pero no todos los remakes y reboots son malos de hecho, podemos encontrar produc
 
 Si y No... porque depende de la franquicia, en algunos casos prácticamente es imposible superar las interpretaciones originales, **¿Quién podría imaginarse un Back to the future sin Michael J. Fox o Christopher Lloyd? o ¿Un Home Alone sin Macaulay Culkin?**, casos como estos nos llevan a comprender que por mucho que queramos ver un remake o reboot de nuestra película, serie o videojuego favorito, en algunos casos es mejor conformarnos con el contenido original porque es imposible superarlo.
 
-
-
 Realmente a todos nos gustaría ver nuestro videojuego, película o serie favorita con animación y efectos especiales modernos, yo llevo años esperando un remake o reboot del videojuego Legacy of Kain pero con el tiempo he llegado a entender que **quizás los desarrolladores no cuentan con el talento y experiencia adecuada para traer esta querida franquicia**, afortunadamente gracias los servicios bajo demanda y a la retrocompatibilidad de algunas consolas siempre podemos regresar a disfrutar nuestros clásicos cuando queramos.
-
-
 
 Con esto llegamos al final, si te gusto el contenido de este articulo no dudes en compartirlo, puedes escribirme en mi [Twitter ](https://twitter.com/christianEdSV)para cualquier duda o sugerencia.
 
