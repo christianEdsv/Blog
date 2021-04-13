@@ -55,6 +55,8 @@ Títulos muy queridos como Robocop, ghostbusters, Medal of honor, Sonic the hedg
 
 Pero no todos los remakes y reboots son malos de hecho, podemos encontrar productos que son superiores al original, títulos como **Batman Begins, Dawn of the Dead, Scarface, Tomb raider, Crash Bandicoot: N Sane Trilogy, Pokemon Omega Ruby/Safiro, The Office o Battlestar Galactica** son ejemplos de grandes franquicias que son superiores a la original.
 
+El reboot de Doom trajo consigo una nueva forma de jugar FPS
+
 ![Doom](/assets/Doom-min.png "Doom")
 
 ## **¿Son necesarios los remakes o reboots?**
