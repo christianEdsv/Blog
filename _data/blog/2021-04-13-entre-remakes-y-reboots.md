@@ -9,7 +9,7 @@ metaDescription: >-
   películas o series. Los remakes y reboots.
 thumbnail: /assets/buzz-min.png
 ---
-Hola senpais
+Hola mis nerds.
 
 En esta ocasión quiero compartirles mi opinión sobre unos recursos que últimamente muchas empresas de entretenimiento usan para crear videojuegos, películas o series. **Los remakes y reboots.**
 
