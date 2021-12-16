@@ -6,7 +6,7 @@ title: Gatsby + Netlify = Nerdojo
 metaDescription: 'Gatsby, Netlify, desarrollo web, headless cms'
 thumbnail: /assets/post1-min.png
 ---
-Hola senpais!
+Bienvenido al Dojo!
 
 ¿Cómo va el inicio del año? Se que muchos estábamos esperando este 2021 con ansias después de lo “especial” (por no llamarlo de otra manera) que fue el 2020, mi nombre es Christian y desde varios meses venia planeando empezar un blog donde pueda compartir mis conocimientos, experiencias y opiniones sobre temas relacionados con la tecnología y videojuegos.
 
