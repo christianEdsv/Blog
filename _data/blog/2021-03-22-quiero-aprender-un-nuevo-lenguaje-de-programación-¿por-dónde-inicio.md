@@ -9,14 +9,11 @@ metaDescription: >-
   tu aprendizaje. 
 thumbnail: /assets/comoiniciar-min.png
 ---
-¡Hola senpais!
+Que tal colegas nerds :)
 
 En este articulo quiero compartirles algunos recursos y herramientas que uso para guiarme durante mi formación como desarrollador, independientemente la tecnología con la que trabajes es importante tener una hoja de ruta para guiarnos correctamente durante nuestro aprendizaje.
 
-
 Actualmente me encuentro aprendiendo Kotlin para Android y todas las herramientas que les compartiré me han sido de utilidad durante mi aprendizaje.
-
-
 
 ## 1- Documentación oficial
 
@@ -25,8 +22,6 @@ Actualmente me encuentro aprendiendo Kotlin para Android y todas las herramienta
 ![android developers](/assets/androiddevelopers-min.png "android developers")
 
 *Sitio con documentación oficial de Android*
-
-
 
 La ventaja de usar como referencia la documentación oficial es que siempre tendremos la información actualizada y usaremos las mejores prácticas proporcionadas por el desarrollador. Por ejemplo, la web oficial de Kotiln ofrece una documentación muy bien explicada incluyendo su propio compilador.
 
@@ -46,32 +41,21 @@ La siguiente parada de nuestra ruta para continuar con nuestro aprendizaje son l
 
 *Curso oficial de Google en Udacity*
 
-
-
 Una desventaja de tomar estos cursos es que muchos son de pago y es necesario hacer una inversión inicial para empezar nuestro aprendizaje, aunque también tenemos algunos que son gratuitos como el curso Developing Android Apps with Kotlin.
-
-
 
 ## 3- Blogs, foros y Youtube
 
 Muchas veces queremos buscar recursos para nuestros proyectos, opiniones o tutoriales y un lugar perfecto para encontrarla son los **blogs**, **foros de tecnología** y **YouTube**, muchos desarrolladores comparten sus conocimientos y en más de una ocasión estos artículos o videos nos van a sacar de apuros, estos son algunas webs que recomiendo:
 
-
-
 [dev.to](https://dev.to)
 
 [Medium](https://medium.com)
 
-
-
 Algo que debemos tomar en cuenta a la hora de usar estas herramientas es que mucha información se encuentra desactualizada por lo que, aunque la solución nos funcione no es la manera correcta u oficial de hacerlo.
-
-
 
 ## 4- La comunidad
 
 La comunidad de desarrolladores tiene un rol importante dentro de la industria de IT, unirnos a una comunidad nos ayuda a conocer opiniones y experiencias de personas que trabajan con la tecnología que queremos aprender, incluso podemos obtener mentorías de profesionales del sector que ayudan a personas que van iniciando su carrera, podemos encontrar comunidades activas en **Discord**, **Slack**, S**tack overflow**, **Facebook** y **Twitter**.
-
 
 también podemos formar parte de una comunidad asistiendo a **conferencias**, **talleres**, **bootcamps** y **hacktones** que grupos locales realizan en cada país. Debido a la pandemia muchos grupos optaron por realizar sus eventos online manteniendo así la interacción de la comunidad.
 
@@ -79,21 +63,12 @@ también podemos formar parte de una comunidad asistiendo a **conferencias**, **
 
 *Google GDG es una excelente opción para buscar comunidades locales.*
 
-
-
 ## Aprende, crea y comparte
-
-
 
 Conocimos varias herramientas que podemos usar para nuestro aprendizaje pero debemos tener en cuenta que todo esto debe ir acompañado de **mucha práctica**, **investigación** y **disciplina**. Durante nuestro proceso de aprendizaje crearemos proyectos que nos pueden servir de portafolio facilitando así las oportunidades de trabajo o de colaboración con otros proyectos.
 
-
 **Recuerda compartir tus conocimientos con la comunidad**, especialmente con nuevas personas que van ingresando al mundo de la programación, **puedes hacerlo escribiendo en un blog**, **creando videos en YouTube** o **participando en comunidades locales y online**.
 
-
-
 Espero que la información que de este articulo sea de utilidad para tu formación profesional, si te gusto el articulo no dudes en compartirlo, también puedes escribirme en mi [Twitter ](https://twitter.com/christianEdSV)para cualquier duda o sugerencia.
-
-
 
 ¡Hasta la próxima!
