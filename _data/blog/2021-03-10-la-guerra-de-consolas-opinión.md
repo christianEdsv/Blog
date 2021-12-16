@@ -6,7 +6,7 @@ title: 'La guerra de consolas: opinión'
 metaDescription: guerra de consolas
 thumbnail: /assets/guerraconsolas.png
 ---
-¡Hola senpais!
+Que tal colegas nerds :)
 
 En esta ocasión quiero compartirles mi opinión sobre uno de los temas que siempre han dividido a la comunidad gaming: **La guerra de consolas.**
 
@@ -19,8 +19,6 @@ Sin embargo, las cosas no eran tan bonitas como parecen, detrás de esta compete
 *Anuncios como estos llegaron a calar tanto en la gente que prácticamente creaban soldados fieles a la marca que defendían a capa y espada su consola favorita.*
 
 **Una vez conocimos el origen de este fenómeno** pasamos a revisar las razones que según mi opinión muchos de nosotros tomamos en cuenta a la hora de comprar una consola.
-
-
 
 **Nostalgia**
 
@@ -49,8 +47,6 @@ Ya conocimos los puntos que muchos de nosotros tomamos en cuenta a la hora de co
 ¿Recuerdan el video de Sega mofándose de Nintendo? Pues prácticas como estas han sido muy usadas por las compañías y en tiempos modernos también son aplicadas, uno de los ejemplos más recientes es el de Sony mofándose de Microsoft por su política de no compartir juegos (al final no se implementó en Xbox one)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SRrp_oUF2wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 Muchas de estas campañas de desprestigio son realizadas por las mismas empresas y en la mayoría de las ocasiones por jugadores que buscan meter “hate” en la comunidad. Un ejemplo más reciente son los supuestos fallos de consolas de nueva generación PS5 y Xbos Series X/S.
 
